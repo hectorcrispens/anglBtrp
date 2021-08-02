@@ -14,7 +14,7 @@ Copyright (C) 2021.
 
 ------
 
-![](../imag/head.png)
+![](imag/head.png)
 
 ------
 
