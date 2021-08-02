@@ -14,7 +14,7 @@ Copyright (C) 2021.
 
 ------
 
-![](/home/hector/Desarrollo/anglBtrp/imag/head.png)
+![](../imag/head.png)
 
 ------
 
