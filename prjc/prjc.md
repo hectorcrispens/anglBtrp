@@ -1,72 +1,36 @@
-# Docker Symfony 5.3.
+# Angular Bootstrap Atom Design
 
 Gestión de proyecto
 
 ---
 
-Copyright (C) 2021 Sergio Ridaura, sergrida  
-<https://sergioridaura.com> - <info@sergioridaura.com>
+Copyright (C) 2021 
+
+- Sergio Ridaura, sergrida
+  https://sergioridaura.com - [info@sergioridaura.com](mailto:info@sergioridaura.com)
+- Héctor Orlando, hcrispens
+  [hector.or.cr@gmail.com](mailto:hector.or.cr@gmail.com)
 
 ---
 
-## Índice
-
-- [Descripción](#descripcin)
-- [Historias de usuario](#historias-de-usuario)
-- [1ª Iteración](#1-iteracin)
-  - [Por hacer](#por-hacer)
-  - [Realizando](#realizando)
-  - [Comprobando](#comprobando)
-    - [Imagen de Docker con Symfony](#imagen-de-docker-con-symfony)
-  - [Finalizado](#finalizado)
+[TOC]
 
 ---
 
 ## Descripción
 
-- **Cómo** desarrollador de framework Symfony 3.5
-- **Quiero** imagen de Docker
-- **Para** el desarrollo de framework Symfony 3.5
+- **Cómo** 
+- **Quiero**
+- **Para** 
 - **Condiciones:**
-  - Ayuda con la implementación de un nuevo proyecto.
-  - Ayuda con las tareas más utilizadas en Docker.
 - **Comentarios:**
+- **Esfuerzos**
 
 ---
 
 ## Historias de usuario
 
-### Nueva imagen de Docker con Symfony
 
-- **Cómo** desarrollador de framework Symfony
-- **Quiero** nueva imagen de Docker
-- **Para** el desarrollo de nuevas versiones del framework Symfony
-- **Condiciones:**
-- **Cuando:**
-  - Realizamos nuevo proyecto del framework Symfony.
-  - Nueva versión LTS del framework Symfony.
-- **Comentarios:**
-- **Esfuerzos:**
-
-
-### Nuevo orden de imágenes de Docker con Symfony
-
-- **Cómo** desarrollador de framework Symfony
-- **Quiero** nuevo orden de las imágenes de Docker
-- **Para** el desarrollo de nuevas versiones del framework Symfony
-- **Condiciones:**
-  - Se crea un nuevo proyecto con el nombre `dockSmfn`.
-  - Este nuevo proyecto engloba todas las versiones creadas.
-  - Las versiones de imagen se organizan por `tags` de Docker.
-  - Las versiones código fuente se organizan por `branch`, `tags` y `release`
-  de Git.
-  - Se crea a partir del primer proyecto o versión, cada una continua por su
-  lado y se une al `master` la última versión del framework Symfony LTS.
-- **Cuando:**
-  - Realizamos nuevo proyecto del framework Symfony.
-  - Nueva versión LTS del framework Symfony.
-- **Comentarios:**
-- **Esfuerzos:**
 
 ---
 
@@ -74,23 +38,32 @@ Copyright (C) 2021 Sergio Ridaura, sergrida
 
 ### Por hacer
 
-
 ### Realizando
-
 
 ### Comprobando
 
-#### Imagen de Docker con Symfony
+#### Instalación de Bootstrap
 
-- **Cómo** desarrollador de framework Symfony 3.5
-- **Quiero** imagen de Docker
-- **Para** el desarrollo de framework Symfony 3.5
-- **Condiciones:**
-  - Ayuda con la implementación de un nuevo proyecto.
-  - Ayuda con las tareas más utilizadas en Docker.
+- **Como** desarrollador
+- **Quiero** tener Bootstrap en el proyecto
+- **Para** darle estilos a los componentes
+- **Condiciones:** 
+  - Bootstrap debe estar disponible de forma global 
 - **Cuando:**
-- **Comentarios:**
-- **Esfuerzos:** 4 / 4
+- **Comentarios:** no es necesario que se incluyan los node_modules
+- **Esfuerzos**:
+
+#### Proyecto de Angular
+
+- **Como** desarrollador
+- **Quiero** un proyecto de angular en estado inicial
+- **Para** poder trabajar posteriormente sobre este código de base
+- **Condiciones:**
+- **Cuando:**
+- **Comentarios:** no es necesario que se incluyan los node_modules
+- **Esfuerzos:**
+
+
 
 
 ### Finalizado
