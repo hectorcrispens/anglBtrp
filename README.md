@@ -1,4 +1,8 @@
 # Angular Bootstrap
+[![angular](https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular)](https://angular.io/) [![bootstrap](https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) [![node](https://img.shields.io/badge/node-14 lts-success?style=flat-square&logo=node.js)](https://nodejs.org/en/about/releases/)
+
+
+
 Versión 01.08.2021
 
 Documento léeme
@@ -18,6 +22,12 @@ Copyright (C) 2021.
 
 ------
 
+
+
+## Tabla de contenido
+
+[TOC]
+
 ## Descripción
 
 Proyecto de Angular con la incoporación de Bootstrap como framework de css como también de un conjunto de componentes moleculares (según la metodología de Atom Design).
@@ -34,6 +44,8 @@ Proyecto de Angular con la incoporación de Bootstrap como framework de css como
 
 ------
 
+
+
 ## Requirimientos
 
 Para tener instalado el proyecto de angular para el desarrollo de aplicaciones, previamente debe estar instalado en el sistema **Node** y **NPM**, en especial la versión 14 (Fermium) de Node (el software de Node ya incluye el manejador de paquetes NPM).
@@ -49,28 +61,48 @@ También se recomienda instalar el @Angular/Cli que esta la interface de linea d
 > ```sh
 > npm install -g @angular/cli 
 > ```
-
-
+>
+> 
 
 ------
+
+
 
 ## Instalación y primeros pasos
 
 Una vez instalados la versión de node como también angular/cli proceder a clonar este repositorio.
 
+> 
+>
 > ```bash
 > git clone https://github.com/hectorcrispens/anglBtrp
 > ```
+>
+> 
 
 Y posteriormente levantar el servidor web
 
+> 
+>
 > ```bash
 > ng serve
 > ```
+>
+> 
 
 para visualizar el contenido de la aplicación abrir un navegador web en la direccion [http://localhost:4200](http://localhost:4200)
 
 ------
+
+
+
+## Instalación con contenedores docker
+
+Puede consultar el proyecto **dockMspa** que puede acceder desde [aqui](https://github.com/sergrida/dockMspa), el cual provee un contenedor de docker preparado para trabajar con esta aplicación, además de proveer herramientas para trabajar con todo el stack. Por el contrario si solo va a trabajar con esta aplicación puede descargar de docker hub la imagen [dockAng]() para trabajar solamente con este proyecto de **Angular** descartando asi el resto del stack.
+
+------
+
+
 
 ## Otros comandos 
 
@@ -115,12 +147,5 @@ ng generate <schematic> [options]
 ng build <project> [options]
 ```
 
+------
 
-
-## Releases
-
-[Angular](https://angular.io/): stable v12.1.4
-
-[Bootstrap](https://getbootstrap.com/): v5.0.2
-
-[Node](https://nodejs.org/es/): v14 LTS-Fermium
