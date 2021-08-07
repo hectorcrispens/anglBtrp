@@ -40,6 +40,30 @@ Copyright (C) 2021
 
 ### Realizando
 
+#### Documento para desarrolladores
+
+- **Como** desarrollador
+- **Quiero** crear un documento informativo
+- **Para** que otro desarrollador pueda comprender el poryecto
+- **Condiciones:** 
+  - Debe ser claro y enfocado en los aspectos espécificos del proyecto
+  - Debe seguir la nomenclatura especificada en el archivo vcbl.csv
+- **Cuando:**
+- **Comentarios:** 
+- **Esfuerzos**:
+
+#### Crear estructura básica 
+
+- **Como** desarrollador
+- **Quiero** definir la estructura básica del proyecto
+- **Para** que la aplicación pueda crecer organizadamente
+- **Condiciones:** 
+  - La estructura debe segui el modelo de atom design
+  - La estructura debe esta documentada
+- **Cuando:**
+- **Comentarios:** 
+- **Esfuerzos**:
+
 ### Comprobando
 
 #### Instalación de Bootstrap
