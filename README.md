@@ -1,5 +1,5 @@
 # Angular Bootstrap
-[![angular](https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular)](https://angular.io/) [![bootstrap](https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) [![node](https://img.shields.io/badge/node-14 lts-success?style=flat-square&logo=node.js)](https://nodejs.org/en/about/releases/)
+[![angular](https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular)](https://angular.io/) [![bootstrap](https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) [![node](https://img.shields.io/badge/node-14lts-success?style=flat-square&logo=node.js)](https://nodejs.org/en/about/releases/)
 
 
 
