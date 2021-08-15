@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { BootUIComponent } from 'boot-ui';
 
 @Component({
   selector: 'app-root',

@@ -104,6 +104,37 @@
           }
         }
       }
+    },
+    "BootUI": {
+      "projectType": "library",
+      "root": "projects/boot-ui",
+      "sourceRoot": "projects/boot-ui/src",
+      "prefix": "btUI",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/boot-ui/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/boot-ui/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/boot-ui/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/boot-ui/src/test.ts",
+            "tsConfig": "projects/boot-ui/tsconfig.spec.json",
+            "karmaConfig": "projects/boot-ui/karma.conf.js"
+          }
+        }
+      }
     }
   },
   "defaultProject": "angl"

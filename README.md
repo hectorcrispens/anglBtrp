@@ -149,3 +149,21 @@ ng build <project> [options]
 
 ------
 
+## Licencia
+
+Copyright (C) 2021.
+
+- Sergio Ridaura,
+  - [![linkedin](https://img.shields.io/badge/LinkedIn--0a66c2?style=social&logo=linkedin)](https://www.linkedin.com/in/sergio-ridaura/) [![GitHub](https://img.shields.io/badge/GitHub--0a66c2?style=social&logo=GitHub)](https://github.com/sergrida) [![Correo](https://img.shields.io/badge/Info-info@sergioridaura.com-0a66c2?style=social&logo=Mail.Ru)](mailto:info@sergioridaura.com) [![Site](https://img.shields.io/badge/Site-https://sergioridaura.com-ff7139?style=social&logo=FirefoxBrowser)](https://sergioridaura.com) 
+- Héctor Orlando,
+  - [![linkedin](https://img.shields.io/badge/LinkedIn--0a66c2?style=social&logo=linkedin)](https://www.linkedin.com/in/hector-orlando-25124a18a/) [![linkedin](https://img.shields.io/badge/GitHub--0a66c2?style=social&logo=GitHub)](https://github.com/hectorcrispens) [![linkedin](https://img.shields.io/badge/Gmail--0a66c2?style=social&logo=Gmail)](mailto:hector.or.cr@gmail.com)
+
+
+
+### GNU General Public License
+
+Este programa es software gratuito: puedes redistribuirlo y/o  modificar bajo los términos de la Licencia Pública General GNU tal como  se publicó por la Free Software Foundation, ya sea la versión 3 de la  Licencia, o cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea de utilidad,  pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de  COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO PARTICULAR. Ver el Licencia  pública general GNU para más detalles.
+
+Debería haber recibido una copia de la Licencia Pública General GNU junto con este programa, en LICENSE.md o https://www.gnu.org/licenses/gpl-3.0.html.en.
