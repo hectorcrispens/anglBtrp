@@ -9,14 +9,15 @@ Documento léeme
 
 ------
 
-Copyright (C) 2021.
 
-- Sergio Ridaura, sergrida
-   https://sergioridaura.com - [info@sergioridaura.com](mailto:info@sergioridaura.com)
-- Héctor Orlando, hcrispens
-   [hector.or.cr@gmail.com](mailto:hector.or.cr@gmail.com)
+
+## Contributors
+
+[<img src="http://0.gravatar.com/avatar/5cb744a885a509cbccc66817ec2927e1" style="border-radius:50%; width:60px; height:60px; margin-right:10px;">](https://www.linkedin.com/in/hector-orlando-25124a18a/)  [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEDPFISYGfh3Q/profile-displayphoto-shrink_800_800/0/1585863103638?e=1634774400&v=beta&t=Ae6ZRNZ6iNNWA1rbdQs2Vt6UAM9NXHAVjzewj_80054" style="border-radius:50%; width:60px; height:60px; margin-right:10px;">](https://www.linkedin.com/in/sergio-ridaura/)
 
 ------
+
+
 
 ![](imag/head.png)
 
