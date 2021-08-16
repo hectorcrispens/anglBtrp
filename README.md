@@ -1,5 +1,14 @@
-# Angular Bootstrap
-[![angular](https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular)](https://angular.io/) [![bootstrap](https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) [![node](https://img.shields.io/badge/node-14lts-success?style=flat-square&logo=node.js)](https://nodejs.org/en/about/releases/)
+![](imag/head.png)
+
+
+
+
+
+<center><h1>Angular Bootstrap</h1></center>
+
+<center>Proyecto de Angular  con incorporación de boostrap</center>
+
+<center><a href="https://angular.io/)"><img src="https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular"></a> <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap"</a><a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/badge/node-14lts-success?style=flat-square&logo=node.js"></a></center>
 
 
 
@@ -19,7 +28,7 @@ Documento léeme
 
 
 
-![](imag/head.png)
+
 
 ------
 
@@ -27,7 +36,15 @@ Documento léeme
 
 ## Tabla de contenido
 
-[TOC]
+- [Contributors](#contributors)
+- [Tabla de contenido](#tabla-de-contenido)
+- [Descripción](#descripción)
+- [Requirimientos](#requirimientos)
+- [Instalación y primeros pasos](#instalación-y-primeros-pasos)
+- [Instalación con contenedores docker](#instalación-con-contenedores-docker)
+- [Otros comandos](#otros-comandos)
+- [Licencia](#licencia)
+  - [GNU General Public License](#gnu-general-public-license)
 
 ## Descripción
 
