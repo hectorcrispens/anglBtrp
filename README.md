@@ -4,31 +4,23 @@
 
 
 
-<center><h1>Angular Bootstrap</h1></center>
+# Angular Bootstrap
 
-<center>Proyecto de Angular  con incorporación de boostrap</center>
+Proyecto de Angular  con incorporación de boostrap
 
-<center><a href="https://angular.io/)"><img src="https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular"></a> <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap"</a><a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/badge/node-14lts-success?style=flat-square&logo=node.js"></a></center>
+[![](https://img.shields.io/badge/angular-12.2.0-red?style=flat-square&logo=angular)](https://angular.io/) [![](https://img.shields.io/badge/bootstrap-5.1.0-green?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)[![](https://img.shields.io/badge/node-14lts-success?style=flat-square&logo=node.js)](https://nodejs.org/en/about/releases/)
+
+
+
+## Contributors
+
+[![hector](imag/avatar-hector.svg)](https://www.linkedin.com/in/hector-orlando-25124a18a/)  [![sergio](imag/avatar-sergio.svg)](https://www.linkedin.com/in/sergio-ridaura/)
 
 
 
 Versión 01.08.2021
 
 Documento léeme
-
-------
-
-
-
-## Contributors
-
-[<img src="http://0.gravatar.com/avatar/5cb744a885a509cbccc66817ec2927e1" style="border-radius:50%; width:60px; height:60px; margin-right:10px;">](https://www.linkedin.com/in/hector-orlando-25124a18a/)  [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEDPFISYGfh3Q/profile-displayphoto-shrink_800_800/0/1585863103638?e=1634774400&v=beta&t=Ae6ZRNZ6iNNWA1rbdQs2Vt6UAM9NXHAVjzewj_80054" style="border-radius:50%; width:60px; height:60px; margin-right:10px;">](https://www.linkedin.com/in/sergio-ridaura/)
-
-------
-
-
-
-
 
 ------
 
@@ -45,6 +37,10 @@ Documento léeme
 - [Otros comandos](#otros-comandos)
 - [Licencia](#licencia)
   - [GNU General Public License](#gnu-general-public-license)
+
+------
+
+
 
 ## Descripción
 
@@ -166,6 +162,8 @@ ng build <project> [options]
 ```
 
 ------
+
+
 
 ## Licencia
 
