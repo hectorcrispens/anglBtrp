@@ -60,7 +60,7 @@ Proyecto de Angular con la incoporación de Bootstrap como framework de css como
 
 
 
-## Requirimientos
+## Requerimientos
 
 Para tener instalado el proyecto de angular para el desarrollo de aplicaciones, previamente debe estar instalado en el sistema **Node** y **NPM**, en especial la versión 14 (Fermium) de Node (el software de Node ya incluye el manejador de paquetes NPM).
 

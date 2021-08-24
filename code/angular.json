@@ -107,21 +107,21 @@
     },
     "BootUI": {
       "projectType": "library",
-      "root": "projects/boot-ui",
-      "sourceRoot": "projects/boot-ui/src",
+      "root": "projects/angl-bstp-ui",
+      "sourceRoot": "projects/angl-bstp-ui/src",
       "prefix": "btUI",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
-            "project": "projects/boot-ui/ng-package.json"
+            "project": "projects/angl-bstp-ui/ng-package.json"
           },
           "configurations": {
             "production": {
-              "tsConfig": "projects/boot-ui/tsconfig.lib.prod.json"
+              "tsConfig": "projects/angl-bstp-ui/tsconfig.lib.prod.json"
             },
             "development": {
-              "tsConfig": "projects/boot-ui/tsconfig.lib.json"
+              "tsConfig": "projects/angl-bstp-ui/tsconfig.lib.json"
             }
           },
           "defaultConfiguration": "production"
@@ -129,9 +129,9 @@
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
-            "main": "projects/boot-ui/src/test.ts",
-            "tsConfig": "projects/boot-ui/tsconfig.spec.json",
-            "karmaConfig": "projects/boot-ui/karma.conf.js"
+            "main": "projects/angl-bstp-ui/src/test.ts",
+            "tsConfig": "projects/angl-bstp-ui/tsconfig.spec.json",
+            "karmaConfig": "projects/angl-bstp-ui/karma.conf.js"
           }
         }
       }

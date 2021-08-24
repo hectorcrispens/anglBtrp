@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { BootUIComponent } from 'boot-ui';
 
 @Component({
   selector: 'app-root',
@@ -8,4 +7,13 @@ import { BootUIComponent } from 'boot-ui';
 })
 export class AppComponent {
   title = 'angl';
+
+  sendToConsole() {
+    alert("hice click");
+  }
+  mostrarEstado(value:string)
+  {
+    this.title = value
+  }
 }
+
