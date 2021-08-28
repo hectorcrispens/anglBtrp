@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-//import { AnglBstpUIModule } from 'projects/angl-bstp-ui/src/public-api';
+import { AnglBstpUIModule } from 'projects/angl-bstp-ui/src/public-api';
 
 
 import { AppComponent } from './app.component';
@@ -11,7 +11,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    //AnglBstpUIModule
+    AnglBstpUIModule
   ],
   providers: [],
   bootstrap: [AppComponent]
