@@ -107,7 +107,7 @@
       "projectType": "library",
       "root": "projects/angl-bstp-ui",
       "sourceRoot": "projects/angl-bstp-ui/src",
-      "prefix": "btUI",
+      "prefix": "ngb",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
